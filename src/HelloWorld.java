@@ -1,6 +1,7 @@
 
 public class HelloWorld {
 	public static void main(String[] args) {
+
 		System.out.println("Hello worlden det Šr jag som Šr albin");
 		System.out.println("Hello worlden det Šr jag som Šr albin");
 		System.out.println("Hello worlden det Šr jag som Šr albin");
@@ -9,5 +10,6 @@ public class HelloWorld {
 		for(int i=0;i<0;i++){
 			
 		}
+
 	}
 }
