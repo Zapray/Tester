@@ -6,9 +6,9 @@ public class HelloWorld {
 		System.out.println("Hello worlden det Šr jag som Šr albin");
 		System.out.println("Hello worlden det Šr jag som Šr albin");
 		System.out.println("Hello worlden det Šr jag som Šr albin");
-		System.out.println("Hello worlden det Šr jag som Šr albin");
-		for(int i=0;i<0;i++){
-			
+		System.out.println("Hello världen det Šr jag som Šr albin");
+		for(int i=1;i<5;i++){
+			System.out.println("merpiderp");
 		}
 
 	}
